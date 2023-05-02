@@ -12,7 +12,7 @@ public class CreateTable_JDBC
 		{
 			String url = "jdbc:mysql://localhost:3306/jdbc";
 			String username = "root";
-			String password = "Gk@14496";
+			String password = "******";
 
 			Connection con = DriverManager.getConnection(url, username, password);
 
